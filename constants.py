@@ -1,0 +1,2 @@
+PREFIX = "[BUCKSHOT ROULETTE]"
+FILENAME_GENOME = "best_genome.pkl"
